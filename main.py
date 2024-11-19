@@ -19,7 +19,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 url = "https://faxpxfwubctpvckzbpit.supabase.co"
-key = ""
+key = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImZheHB4Znd1YmN0cHZja3picGl0Iiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTczMTY4NzE1MiwiZXhwIjoyMDQ3MjYzMTUyfQ.c8GPmYAvFdcHEVW6EWJUYN5aO9l_ES3vr3bBpVUUQY4"
 
 
 supabase = create_client(url, key)
