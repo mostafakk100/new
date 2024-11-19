@@ -1,0 +1,5 @@
+Wikipedia-api
+flet==0.25.0.dev3721
+deep_translator
+supabase
+python-dotenv
